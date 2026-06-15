@@ -1,4 +1,4 @@
-# Cost of Living Pulse
+# Price Trends in Sri Lanka
 
 Work in progress.
 
