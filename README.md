@@ -59,6 +59,7 @@ See [charts/README.md](charts/README.md) for how outputs are generated.
 | [data/README.md](data/README.md) | Data source notes and official CPI link |
 | [data/COLUMNS.md](data/COLUMNS.md) | CSV column reference |
 | [notebook/README.md](notebook/README.md) | Notebook overview |
+| [docs/RUN.md](docs/RUN.md) | Run commands and example output |
 
 ## Author
 
