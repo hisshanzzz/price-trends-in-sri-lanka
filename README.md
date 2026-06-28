@@ -60,6 +60,7 @@ See [charts/README.md](charts/README.md) for how outputs are generated.
 | [data/COLUMNS.md](data/COLUMNS.md) | CSV column reference |
 | [notebook/README.md](notebook/README.md) | Notebook overview |
 | [docs/RUN.md](docs/RUN.md) | Run commands and example output |
+| [docs/LIMITATIONS.md](docs/LIMITATIONS.md) | Synthetic data and scope notes |
 
 ## License
 
