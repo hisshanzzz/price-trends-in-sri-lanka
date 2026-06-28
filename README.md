@@ -61,6 +61,10 @@ See [charts/README.md](charts/README.md) for how outputs are generated.
 | [notebook/README.md](notebook/README.md) | Notebook overview |
 | [docs/RUN.md](docs/RUN.md) | Run commands and example output |
 
+## License
+
+MIT — see [LICENSE](LICENSE).
+
 ## Author
 
 Mohamed Jaufer Mohamed Hisshan — AI and Data Science student, Sri Lanka
