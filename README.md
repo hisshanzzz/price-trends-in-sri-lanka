@@ -50,7 +50,7 @@ After running, check charts/ for:
 - price_trends.png — all categories over time
 - pct_change_baseline.png — percent rise since Jan 2023
 
-See [charts/README.md](charts/README.md) for how outputs are generated.
+Sample outputs are generated locally when you run the notebook or `run_analysis.py`; PNG files are not stored in the repo (see [charts/README.md](charts/README.md)).
 
 ## Docs
 
